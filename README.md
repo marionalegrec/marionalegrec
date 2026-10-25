@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @marionalegrec
-- 🌱 I’m currently learning Biomedical Engineree
 
 <!---
 marionalegrec/marionalegrec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
